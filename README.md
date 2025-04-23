@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Marco!
+![Avatar](https://static.wikia.nocookie.net/p__/images/2/27/King_Baldwin_IV.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200818183529&path-prefix=protagonist)
 
 🎓 I'm a Computer Science student at UFLA and a graduate IT Technician from CEFET-MG. I’m passionate about building impactful technology — whether it's optimizing algorithms, designing immersive AR experiences, or developing AI systems to assist in real-world scenarios.
 
